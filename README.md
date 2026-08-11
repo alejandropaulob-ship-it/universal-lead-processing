@@ -8,6 +8,10 @@ This project demonstrates an end-to-end lead processing system designed to reduc
 
 The workflow combines **n8n, AI-powered processing, webhooks, Gmail, and Google Sheets** into a unified lead-management automation.
 
+## Workflow Overview
+
+![Universal Lead Processing Workflow](docs/universal-lead-processing-workflow.png)
+
 ### Key Capabilities
 
 - 🚀 Automated lead intake through webhooks
