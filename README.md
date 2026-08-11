@@ -12,6 +12,8 @@ The workflow combines **n8n, AI-powered processing, webhooks, Gmail, and Google 
 
 ![Universal Lead Processing Workflow](docs/universal-lead-processing-workflow.png)
 
+The workflow uses a separate Sales Notification workflow to handle sales-team notifications after a lead has been successfully processed or recovered.
+
 ### Key Capabilities
 
 - 🚀 Automated lead intake through webhooks
