@@ -25,6 +25,22 @@ The workflow combines **n8n, AI-powered processing, webhooks, Gmail, and Google 
 - 💬 Original customer messages and replies included in sales notifications
 - 🔐 Secure API authentication using n8n credentials
 
+## Business Use Case
+
+When a business receives incomplete leads, staff often have to manually review the submission, contact the customer for missing information, wait for a response, update the lead record, and notify the sales team.
+
+This automation handles that process automatically.
+
+It can:
+
+- Identify incomplete lead submissions
+- Determine what information is missing
+- Follow up with the customer automatically
+- Process the customer's reply
+- Extract the missing information using AI
+- Update the lead record
+- Notify the sales team when the lead is ready for review
+
 ---
 
 ## What It Does
